@@ -1,0 +1,13 @@
+extensions: {}
+files:
+  Main: yoneda.hs
+module-template: ! 'module MODULE_NAME where
+
+
+  import Prelude
+
+
+  main :: IO ()
+
+  main = return ()'
+targets: {}
