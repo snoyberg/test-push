@@ -4,4 +4,6 @@ files:
 module-template: ! 'module MODULE_NAME where
 
 '
-targets: {}
+targets:
+  Main:
+    TargetConsole: []
